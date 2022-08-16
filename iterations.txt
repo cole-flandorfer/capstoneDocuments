@@ -1,0 +1,90 @@
+ECommerce CapStone Project
+
+
+Midterm Demo
+
+SpringBoot Backend
+
+Iteration 1  (three days)
+
+User Registration (CUSTOMER) or Signup send an email notification: automatically done (mailtrap.io)
+User Login
+ADMIN -> store your username and pwd in the database
+CUSTOMER -> after the registration the customer has to login
+
+
+Iteration 2( one day)
+       iii)       ADMIN-> CRUD Operation on Product Catalog
+                  ADMIN-> List of Users
+
+Iteration 3(three days)
+       iv) CUSTOMER-> view the catalog
+            Edit the personal details
+            CRUD operation to the add to the cart
+            AddtoCart (either in session or store in the database)
+            Checkout
+
+Iteration 4 (one day)
+           v) ADMIN: Track the customer’s order
+           vi)   After Checkout-> Email Notification saying that you orders has been shipped(mailtrap.io)
+
+Angular Bootstrap Front End:
+
+Iteration 5(three days)
+
+                  i)Registration, Login and Logout function using Angular and Bootstrap
+
+                  ii)Display the product from database to the frontend
+
+                  iii)search functionality based on the product       
+
+
+
+
+
+Iteration 6(4 days)    
+
+            Customer
+
+Add to Cart functionality
+ Check out page
+ Edit User details
+Order tracking page
+       Admin
+
+Edit the catalog
+Remove the catalog
+ Customer Order status
+ Send email notification                 
+Iteration Tentative_stretch goal
+
+              Product rating
+              Users feedback
+
+For Final Demo
+
+  Iteration 7
+
+                             Inventory Management
+
+                             Payment->Stripe payment Gateway
+
+
+
+  Iteration 8
+
+                                Azure Deployment
+
+                                Azure CI/CD
+
+                                 SonarCloud/Jacoco
+
+                                 Azure MySQL
+
+                                 Azure App Insights(Loggrigation)
+
+
+
+                 
+
+   Iteration 9    ...
